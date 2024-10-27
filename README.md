@@ -1,4 +1,4 @@
-# Dice Roller Game#
+# Dice Roller Game #
 
 This is a simple Dice Roller game built using HTML, CSS, and JavaScript.
 The game allows users to roll one or more dice to get random outcomes, which can be useful for games like 
